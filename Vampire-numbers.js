@@ -23,3 +23,5 @@ function vampire_test(a, b) {
 function sortStr(v) {
   return v.split('').sort().join('')
 }
+
+// or
